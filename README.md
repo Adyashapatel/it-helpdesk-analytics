@@ -1,13 +1,13 @@
-# 🖥️ IT Service Desk Analytics Dashboard
+# IT Service Desk Analytics Dashboard
 
-## 📌 Project Overview
+##  Project Overview
 End-to-end data analysis of 5,000+ IT support tickets simulating a real enterprise service desk environment (similar to tools like Okta, Oracle, and enterprise browser/VPN support).
 
 This project analyzes ticket patterns, SLA compliance, agent performance, and peak hours to generate actionable business insights.
 
 ---
 
-## 🎯 Business Questions Answered
+##  Business Questions Answered
 1. **Which issues are most common?** → Prioritize automation & training
 2. **When do tickets peak?** → Optimize agent shift planning
 3. **Are we meeting SLA targets?** → Identify SLA breach patterns by priority
@@ -16,7 +16,7 @@ This project analyzes ticket patterns, SLA compliance, agent performance, and pe
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 | Tool | Purpose |
 |------|---------|
 | Python | Core language |
@@ -28,7 +28,7 @@ This project analyzes ticket patterns, SLA compliance, agent performance, and pe
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 ```
 it-helpdesk-analytics/
 │
@@ -52,7 +52,7 @@ it-helpdesk-analytics/
 
 ---
 
-## 📊 Key Findings
+##  Key Findings
 - **Okta issues** (password resets + lockouts) = ~40% of all tickets → prime candidate for self-service automation
 - **Peak hours**: 9AM–11AM and 2PM–4PM, heaviest on **Mondays and Tuesdays**
 - **Critical ticket SLA breach rate**: ~22% — needs improvement
@@ -60,7 +60,7 @@ it-helpdesk-analytics/
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 ```bash
 # 1. Install dependencies
@@ -77,7 +77,7 @@ python analysis.py
 
 ---
 
-## 💡 Business Recommendations
+##  Business Recommendations
 1. **Deploy self-service Okta reset portal** → estimated 30% ticket volume reduction
 2. **Schedule max agents on Mon/Tue 9AM–11AM** → reduce wait times at peak
 3. **Agent coaching program** for agents with high SLA breach rates
@@ -85,6 +85,6 @@ python analysis.py
 
 ---
 
-## 👤 Author
-**Your Name** | Aspiring Data Analyst  
-📧 yourmail@gmail.com | 🔗 [LinkedIn](https://linkedin.com/in/yourprofile)
+## 
+adyasha patel| Aspiring Data Analyst  
+pateladyasha2019@gmail.com
